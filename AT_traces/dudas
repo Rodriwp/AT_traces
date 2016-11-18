@@ -1,0 +1,8 @@
+* cliente 113 / servidor 111
+
+1)controlS controlQ
+2) negociar opciones con send, servidor no reponde
+3) telnet host 23 inicia el servidor 
+4) ftp con telnet. nos deja enviar paquetes 
+por el puerto de control 21. Pero no abre sockets para datos
+
